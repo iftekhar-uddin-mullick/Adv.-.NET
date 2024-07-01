@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    @if (TempData["Msg"] != null)
+    {
+        <span class="text-success">@TempData["Msg"]</span>
+    }
+    <p></p>
+    <section class="row" aria-labelledby="aspnetTitle">
+        <h1 id="title">Blog Site</h1>
+        <p class="lead">A Blog Site made using ASP.NET, a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+    </section>
+
+    <div class="row">
+        <section class="col-md-4" aria-labelledby="loginTitle">
+            <h2 id="loginTitle">Get Stated by Logging in!</h2>
+            <p><a class="btn btn-outline-dark" href="/auth/login">Login &raquo;</a></p>
+        </section>
+        <section class="col-md-4" aria-labelledby="registerTitle">
+            <h2 id="registerTitle">Join the experience!</h2>
+            <p><a class="btn btn-outline-dark" href="/auth/registration">Register &raquo;</a></p>
+        </section>
+    </div>
+</main>
