@@ -1,0 +1,45 @@
+﻿@model IEnumerable<FoodDeliveryApp.DTOs.ResturantListDTO>
+
+@{
+    ViewBag.Title = "ResturantsList";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h2>Resturant List</h2>
+<h4>Choose a resturant to order your food!</h4><br />
+
+@if (TempData["Msg"] != null)
+{
+    <div class="alert alert-success">
+        <p></p>
+        <span>@TempData["Msg"]</span><br /><br />
+    </div>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            Resturant Name
+        </th>
+        <th>
+            Resturant Location
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RLoc)
+            </td>
+            <td>
+                <a class="btn btn-primary" href="/Resturant/ResturantMenu/@item.Id">View Menu</a>
+            </td>
+        </tr>
+    }
+
+</table>

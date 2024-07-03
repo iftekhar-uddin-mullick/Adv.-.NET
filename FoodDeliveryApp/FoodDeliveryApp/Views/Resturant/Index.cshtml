@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_ResturantLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+@if (TempData["Msg"] != null)
+{
+    <div class="alert alert-success">
+        <p></p>
+        <span>@TempData["Msg"]</span><br /><br />
+    </div>
+}
+

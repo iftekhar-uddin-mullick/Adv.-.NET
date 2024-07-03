@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|s:\\university\\summer 24\\advnet\\fooddeliveryapp\\fooddeliveryapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|s:\\university\\summer 24\\advnet\\fooddeliveryapp\\fooddeliveryapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|s:\\university\\summer 24\\advnet\\fooddeliveryapp\\fooddeliveryapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|s:\\university\\summer 24\\advnet\\fooddeliveryapp\\fooddeliveryapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|s:\\university\\summer 24\\advnet\\fooddeliveryapp\\fooddeliveryapp\\controllers\\resturantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\controllers\\resturantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|s:\\university\\summer 24\\advnet\\fooddeliveryapp\\fooddeliveryapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|s:\\university\\summer 24\\advnet\\fooddeliveryapp\\fooddeliveryapp\\auth\\useraccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\auth\\useraccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|s:\\university\\summer 24\\advnet\\fooddeliveryapp\\fooddeliveryapp\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|s:\\university\\summer 24\\advnet\\fooddeliveryapp\\fooddeliveryapp\\auth\\resturantaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\auth\\resturantaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|s:\\university\\summer 24\\advnet\\fooddeliveryapp\\fooddeliveryapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|s:\\university\\summer 24\\advnet\\fooddeliveryapp\\fooddeliveryapp\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|s:\\university\\summer 24\\advnet\\fooddeliveryapp\\fooddeliveryapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|s:\\university\\summer 24\\advnet\\fooddeliveryapp\\fooddeliveryapp\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4948D1FD-8C15-4F83-AA4B-73610EC449FE}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\Controllers\\AdminController.cs",
+              "ToolTip": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "FoodDeliveryApp\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:51:20.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\Controllers\\HomeController.cs",
+              "ToolTip": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FoodDeliveryApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:51:18.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\Controllers\\LoginController.cs",
+              "ToolTip": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "FoodDeliveryApp\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:50:36.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\Controllers\\OrderController.cs",
+              "ToolTip": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "FoodDeliveryApp\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:49:45.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResturantController.cs",
+              "DocumentMoniker": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Controllers\\ResturantController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\Controllers\\ResturantController.cs",
+              "ToolTip": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Controllers\\ResturantController.cs",
+              "RelativeToolTip": "FoodDeliveryApp\\Controllers\\ResturantController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:48:45.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\Auth\\Logged.cs",
+              "ToolTip": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Auth\\Logged.cs",
+              "RelativeToolTip": "FoodDeliveryApp\\Auth\\Logged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:44:33.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResturantAccess.cs",
+              "DocumentMoniker": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Auth\\ResturantAccess.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\Auth\\ResturantAccess.cs",
+              "ToolTip": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Auth\\ResturantAccess.cs",
+              "RelativeToolTip": "FoodDeliveryApp\\Auth\\ResturantAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:42:44.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserAccess.cs",
+              "DocumentMoniker": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Auth\\UserAccess.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\Auth\\UserAccess.cs",
+              "ToolTip": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Auth\\UserAccess.cs",
+              "RelativeToolTip": "FoodDeliveryApp\\Auth\\UserAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:37:52.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\Views\\Login\\Login.cshtml",
+              "ToolTip": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "FoodDeliveryApp\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T21:23:40.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FoodDeliveryApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T21:17:21.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Views\\User\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\Views\\User\\SignUp.cshtml",
+              "ToolTip": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Views\\User\\SignUp.cshtml",
+              "RelativeToolTip": "FoodDeliveryApp\\Views\\User\\SignUp.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T21:09:13.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\DTOs\\UserDTO.cs",
+              "ToolTip": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "FoodDeliveryApp\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvwgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:44:25.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\Controllers\\UserController.cs",
+              "ToolTip": "S:\\University\\SUMMER 24\\AdvNET\\FoodDeliveryApp\\FoodDeliveryApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FoodDeliveryApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:42:02.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

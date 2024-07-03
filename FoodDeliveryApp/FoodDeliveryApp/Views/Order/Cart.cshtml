@@ -1,0 +1,63 @@
+﻿@model IEnumerable<FoodDeliveryApp.DTOs.FoodDTO>
+
+@{
+    ViewBag.Title = "Cart";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h2>Your Cart</h2>
+
+@if (TempData["Msg"] != null)
+{
+    <div class="alert alert-success">
+        <p></p>
+        <span>@TempData["Msg"]</span><br /><br />
+    </div>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            Food Name
+        </th>
+        <th>
+            Food Price
+        </th>
+        <th></th>
+    </tr>
+
+    @{
+        decimal total = 0;
+        int rid = 0;
+    }
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FName)
+            </td>
+            <td>
+                @{
+                    rid = item.RId;
+                    total += item.FPrice;
+                }
+                @Html.DisplayFor(modelItem => item.FPrice)
+            </td>
+            <td>
+                @Html.ActionLink("Remove", "RemoveFromCart", "Order", new { id = item.Id }, null)
+            </td>
+        </tr>
+    }
+    <tr>
+        <td><b>Grand Total: </b></td>
+        <td>@total</td>
+    </tr>
+
+</table>
+
+<form action="/Order/PlaceOrder" method="post">
+    <input type="hidden" name="Total" value="@total" />
+    <input type="hidden" name="RId" value="@rid" />
+    <input type="submit" value="Place Order" class="btn btn-success" />
+</form>

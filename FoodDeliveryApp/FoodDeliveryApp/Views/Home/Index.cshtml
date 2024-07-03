@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@if (TempData["Msg"] != null)
+{
+    <div class="alert alert-success">
+        <p></p>
+        <span>@TempData["Msg"]</span><br /><br />
+    </div>
+}
+
+<main>
+    <section class="row" aria-labelledby="aspnetTitle">
+        <h1 id="title">FoodApp</h1>
+        <p class="lead">FoodApp is the leading Food Delivery App for the next generation Food Lovers. Made with Love using ASP.NET Framework!</p>
+    </section>
+
+    <div class="row">
+        <section class="col-md-6" aria-labelledby="loginTitle">
+            <h2 id="loginTitle">Login To Order Your Food!</h2>
+            <p><a class="btn btn-success" href="/Login/Login">Login &raquo;</a></p>
+        </section>
+        <section class="col-md-6" aria-labelledby="signUpTitle">
+            <h2 id="signUpTitle">Sign Up To Get Your Food, Delivered!</h2>
+            <p><a class="btn btn-danger" href="/User/SignUp">Sign Up &raquo;</a></p>
+        </section>
+    </div>
+</main>

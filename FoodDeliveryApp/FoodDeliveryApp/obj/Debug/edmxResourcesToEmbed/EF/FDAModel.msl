@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FoodDeliveryAppModelStoreContainer" CdmEntityContainer="FoodDeliveryAppEntities">
+    <EntitySetMapping Name="Foods">
+      <EntityTypeMapping TypeName="FoodDeliveryAppModel.Food">
+        <MappingFragment StoreEntitySet="Foods">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FName" ColumnName="FName" />
+          <ScalarProperty Name="FDesc" ColumnName="FDesc" />
+          <ScalarProperty Name="FPrice" ColumnName="FPrice" />
+          <ScalarProperty Name="RId" ColumnName="RId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderFoods">
+      <EntityTypeMapping TypeName="FoodDeliveryAppModel.OrderFood">
+        <MappingFragment StoreEntitySet="OrderFoods">
+          <ScalarProperty Name="FQty" ColumnName="FQty" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="OId" ColumnName="OId" />
+          <ScalarProperty Name="FId" ColumnName="FId" />
+          <ScalarProperty Name="FPrice" ColumnName="FPrice" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="FoodDeliveryAppModel.Order">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="TotalAmount" ColumnName="TotalAmount" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UId" ColumnName="UId" />
+          <ScalarProperty Name="RId" ColumnName="RId" />
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Resturants">
+      <EntityTypeMapping TypeName="FoodDeliveryAppModel.Resturant">
+        <MappingFragment StoreEntitySet="Resturants">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RName" ColumnName="RName" />
+          <ScalarProperty Name="RLoc" ColumnName="RLoc" />
+          <ScalarProperty Name="UId" ColumnName="UId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="FoodDeliveryAppModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
